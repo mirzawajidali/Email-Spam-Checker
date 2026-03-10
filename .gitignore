@@ -12,7 +12,7 @@ venv/
 env/
 
 # Saved model files
-# saved_model/
+saved_model/
 
 # IDE
 .vscode/
