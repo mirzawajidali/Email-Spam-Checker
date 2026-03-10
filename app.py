@@ -1,6 +1,6 @@
 """
 Streamlit UI for the BERT Spam Email Classifier.
-Run with: streamlit run app.py
+Run with: streamlit run app.py --
 """
 
 import streamlit as st
